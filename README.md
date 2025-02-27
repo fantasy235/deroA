@@ -1,1 +1,1 @@
-[Your Label Here](intent://com.pdp.deviceowner/#Intent;scheme=android-app;end)
+[Open PDP Device Owner](intent://com.pdp.deviceowner/#Intent;scheme=android-app;end)
